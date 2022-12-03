@@ -1,7 +1,5 @@
 # Macの初期設定のメモ
 
-#　アプリのダウンロード
-
 Chrome
 Homebrew
 Clipy
